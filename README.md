@@ -14,3 +14,17 @@ A SQL file for insights surfacing could be reviewed [here](https://github.com/wa
 - **Regional Results:** Reviewing regional sales performance to identify areas to improve.
 
 - **Refund Trends:** Evaluating refund trends to identify revenue loss to inform strategic promotion decisions.
+
+# Executive Summary
+<p align="center">
+  <img width="700" height="352" alt="image" src="https://github.com/user-attachments/assets/eac59698-d5c6-472d-91f3-0887c29e7335" />
+</p>
+
+
+- **Revenue Performance:** Revenue from the 2017 promotion dropped by 41% compared to 2016. 
+- **Trend Analysis:** There were two peaks appeared in the 2016 promotion with 121K and 72 
+respectively, but there’s only one peak in 2017 with just 68K. 
+- **Marketing Effectiveness:** The trend indicates there’s a huge gap between the start of the 
+promotion and when it starts to bulk sell. This is consistently shown in both campaigns. 
+- **Recommendation:** To counter the revenue gap, the next campaign should pivot to regions 
+with high potential. A/B testing of different discount tier is recommended before global rollout. 
